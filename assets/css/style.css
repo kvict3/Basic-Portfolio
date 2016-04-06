@@ -1,0 +1,30 @@
+body{
+	background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/cheap_diagonal_fabric.png");
+	font-family: "Georgia", Times New Roman, Times, serif;
+}	
+.box{
+	width:180px;
+	height:60px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-size:12px;
+	margin-left: 100px;
+}
+.box2{
+	float:right;
+	padding:200px;
+	margin-top: -260px;
+	font-family: "Georgia";
+}
+.container{
+	width:500px;
+	height:500px;
+}
+.box3{
+	float: right;
+	margin-bottom: -200px;
+}
+.footer{
+	text-align: center;
+	margin-bottom: 100px;
+}
